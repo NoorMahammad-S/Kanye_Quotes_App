@@ -1,0 +1,31 @@
+# Ignore Python bytecode files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore the virtual environment directory (if you use one)
+venv/
+venv3/
+env/
+ENV/
+
+# Ignore generated files and directories
+*.log
+*.pot
+*.po
+*.mo
+*.egg-info/
+dist/
+build/
+*.db
+*.sqlite3
+*.swp
+*.swo
+
+# Ignore your IDE/Editor specific files
+.vscode/
+.idea/
+
+# Ignore any local development config files
+.config/
