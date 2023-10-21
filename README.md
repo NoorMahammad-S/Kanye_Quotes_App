@@ -15,7 +15,7 @@ A fun little application that displays random Kanye West quotes using the Kanye 
 
 The "Kanye Quotes App" is a Python application that utilizes the Kanye REST API to fetch random Kanye West quotes and display them on a graphical user interface created with the Tkinter library. This simple app is perfect for a laugh or a moment of Kanye-inspired wisdom.
 
-![Kanye Quotes App Screenshot](screenshot.png)
+![Screenshot of Kanye Quotes App](https://github.com/NoorMahammad-S/Kanye_Quotes_App/blob/master/Kanye%20Quote.JPG)
 
 ## Features
 
